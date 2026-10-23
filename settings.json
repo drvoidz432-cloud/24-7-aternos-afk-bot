@@ -8,7 +8,7 @@
   "server": {
     "ip": "voidzmc-xuKD.aternos.me",
     "port": 60973,
-    "version": "1.20.1",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -54,7 +54,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000
     }
   },
   "modules": {
